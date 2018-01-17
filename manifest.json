@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Octobox on GitHub",
+  "version": "0.1",
+  "description": "Navigates you to octobox.io when clicking github notifications.",
+  "icons": {
+    "48": "icons/ocotobox-on-github-48.png",
+    "96": "icons/ocotobox-on-github-96.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.github.com/*"
+      ],
+      "js": [
+        "octobox-on-github.js"
+      ]
+    }
+  ]
+}
