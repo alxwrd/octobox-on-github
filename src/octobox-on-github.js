@@ -1,6 +1,6 @@
 var notification = document.querySelector('.notification-indicator')
 notification.href = 'https://octobox.io/'
-notification.target = '_blank'
+notification.target = 'https://octobox.io/'
 
 
 var notificationIcon = document.querySelector('.octicon-bell')
