@@ -18,5 +18,8 @@
         "octobox-on-github.js"
       ]
     }
-  ]
+  ],
+  "browser_action": {
+    "default_icon": "icons/icon.png"
+  }
 }
