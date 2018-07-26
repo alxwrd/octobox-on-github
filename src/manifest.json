@@ -3,7 +3,7 @@
   "name": "Octobox on GitHub",
   "author": "Alex Ward (alxwrd@gmail.com)",
   "homepage_url": "https://github.com/alxwrd/octobox-on-github",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Navigates you to octobox.io when clicking github notifications.",
   "icons": {
     "48": "icons/octobox-on-github-48.png",
