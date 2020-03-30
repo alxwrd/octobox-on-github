@@ -1,5 +1,8 @@
 # ![](/src/icons/icon.png) Octobox on GitHub
 
+_This software has been archived because I have no need to work on it with the new
+[GitHub notifications](https://github.blog/2019-11-13-universe-day-one/#notifications)_
+
 Octobox is a fantastic alternative to GitHub notifications. However, one issue
 is if you read the notification on GitHub, it won't be imported to Octobox.
 
